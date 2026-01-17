@@ -1,0 +1,13 @@
+
+function IsOddEven(a){
+    let c = a % 2 ;
+    if (c==0){
+        console.log("The number is even:", a)
+
+    }
+    else {
+        console.log("The number is odd:", a)
+    }
+}
+
+IsOddEven (7);

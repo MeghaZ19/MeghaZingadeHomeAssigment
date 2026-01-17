@@ -1,0 +1,17 @@
+
+function Numbertype(a){
+    if (a>0)
+        {
+        console.log("The number is positve", a);
+    }
+
+    else if (a<0){
+        console.log("The number is Negetive", a);
+    }
+
+    else{
+        console.log("The number is Zero");
+    }
+}
+
+Numbertype(0);

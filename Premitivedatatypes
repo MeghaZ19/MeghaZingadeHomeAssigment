@@ -1,0 +1,20 @@
+
+let firstName = "Megha"
+console.log(firstName)
+console.log(typeof firstName)
+
+let CompanyName = "Encora"
+console.log(CompanyName)
+console.log(typeof CompanyName)
+
+let mobileNumber = 9036367037
+console.log(mobileNumber)
+console.log(typeof mobileNumber)
+
+let isAutomation = true
+console.log(isAutomation)
+console.log(typeof isAutomation)
+
+let hasplaywright
+console.log(hasplaywright)
+console.log(typeof hasplaywright)
